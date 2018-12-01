@@ -4,5 +4,8 @@ dependencies:
   - pip
   - pip:
       - julia
+      - cling
+      - jupyter-c-kernel
+      - javascriptj
       - pandas
   
