@@ -5,3 +5,7 @@ dependencies:
   - pip:
       - julia
       - pandas
+      - scipy
+      - scikit-learn
+      - urllib3
+      - beautifulsoup4
